@@ -15,7 +15,7 @@ Aquatic Ensemble is a multi-user, interactive electronic ensemble that relies on
 HOW TO USE IT
 -------------
 1. Ensure installation of Ableton Live 12 Suite, TouchDesigner, and x-IMU3 GUI applications
-2. Download everything in "Downloadables" folder
+2. Download entire repository
 3. Connect router to iMac via ethernet
 4. Turn off iMac Wifi and connect to router in network settings
 5. Open x-IMU3 GUI application
