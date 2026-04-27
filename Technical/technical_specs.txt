@@ -1,0 +1,27 @@
+INPUT
+Makey-Makey classic kit (3) via microUSB
+Play-doh or similar craft dough via alligator clip
+x-IMU3, third generation (3) via network
+OSC from Ableton Live
+
+PROCESSING
+MaxForLive device for sending/receiving data 
+Ableton Live for audio effects and synthesis
+
+SYSTEM SPECS
+Ableton Live 12 (v.12.2.5)
+Max (v.9.0.7)
+TouchDesigner (v.2025.31760)
+TP-Link TL-MR3020, 5 GHz, via ethernet
+iMac, M3, 16GB RAM (2)
+MicroUSB (3), Ethernet (1), and Alligator Clips (7)
+
+MAPPING:
+x-IMU3 roll -> Ableton, Pitch (42-58%) and Processing, x position (0-1)
+x-IMU3 pitch -> Ableton, Reverb amount (0-100%) and Processing, y position (0-1)
+CSV enviornmental data -> Processing, feedback edge (0-1)
+Makey-Makey "space" button -> Ableton, instrument rack chain selector (0-1) and Processing, switch CHOP (0-1)
+Makey-Makey "click" button -> Ableton, speaker on/off and Processing, level CHOP (0-1)
+
+OUTPUT:
+iMac monitor speakers (mono/stereo)
